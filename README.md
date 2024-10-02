@@ -29,7 +29,7 @@ This project aims to digitize the check-in/check-out system for school libraries
    npm install
 4. Run the project.
    ```bash
-   npx react-native run-android
+   npx expo start
 
 ## Output Video
 https://github.com/user-attachments/assets/2a4cbb01-2372-4ceb-8f94-06b6845acce4
